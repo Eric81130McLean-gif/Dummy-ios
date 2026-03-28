@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>itms-services://?action=download-manifest&url=raw.githubusercontent.com</string>
+                    <string>https://github.com</string>
                 </dict>
             </array>
             <key>metadata</key>
